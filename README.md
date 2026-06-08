@@ -1,27 +1,26 @@
-# Lizandro Martin
+# Lizandro Martín
 
 ### A bit about me
 
-Hola! I'm Lizandro, welcome to my GitHub page. I'm a Data Engineering and Artificial Intelligence student at Universidad Politécnica de Yucatán. I love building scalable data architectures and am always striving to improve my backend coding skills. I share my projects here to document my learning process and hopefully connect with others in the tech and data ecosystem.
+Hola! I'm Lizandro, welcome to my GitHub page. I'm a Data Engineering and Artificial Intelligence student at Universidad Politécnica de Yucatán. I love building scalable data architectures and am always striving to improve my backend coding skills. I share my projects here to document my learning process and connect with others in the tech and data ecosystem.
 
 I recently got certified as an Associate Data Engineer in SQL and I'm currently looking for a remote internship or junior role to apply what I've learned to real-world infrastructure.
 
-### What I'm hacking on
+### Featured Projects
 
-I'm keeping some of my early university projects private while I polish my code, but here is what I'm actively working on right now:
+* **[dc-monitor](https://github.com/Cilantrin/dc-monitor):** A real-time infrastructure observability platform. I built a containerized backend service with FastAPI, PostgreSQL, and Redis, featuring an event-driven architecture and automated Telegram alerts.
+* **[Yucatán Education Dashboard](https://github.com/Cilantrin/yucatan-education-dashboard):** A full-stack geospatial data product exploring dropout patterns across 106 municipalities. Powered by a Python data pipeline (Pandas/Seaborn) and a React/Leaflet frontend.
+* **[DuckDB vs PostgreSQL](https://github.com/Cilantrin/duckdb-vs-postgres-benchmark):** A database architecture benchmark comparing OLAP (columnar) vs OLTP (row-based) performance on analytical workloads, showing a 3-12x speed advantage for DuckDB.
 
-*   **Data Center Monitoring API:** Building a containerized backend service with FastAPI and Docker to simulate and monitor data center metrics.
-*   **Yucatán Dropout Analysis:** Doing some exploratory data analysis using Python and public datasets to visualize educational trends.
-*   **Cloud Architecture:** Deep diving into AWS to design and deploy scalable data pipelines.
+### Other Projects
 
-### Nerd Corner & Stack
+* **[Airflow Weather ETL](https://github.com/Cilantrin/Airflow-Weather-Orchestration):** Production-grade orchestration using Apache Airflow to extract, transform, and load API weather data.
+* **[SpaceX ETL Pipeline](https://github.com/Cilantrin/SpaceX-ETL-Pipeline):** An end-to-end pipeline standardizing public API launch data and loading it into MongoDB.
+* **[Massive Data Labs](https://github.com/Cilantrin/Massive-Data-Labs):** A progression of containerized ETL pipelines and NoSQL modeling exercises.
 
-I love customizing my computing environment and finding the right tools for the job. I do most of my development on Linux, and I enjoy keeping my workflow as efficient as possible. 
+### Nerd Corner 
 
-*   **Languages & Data:** Python, SQL, PostgreSQL, Snowflake, Apache Parquet
-*   **Cloud & DevOps:** AWS, Docker, Terraform, GitHub Actions
-*   **Analytics & APIs:** Pandas, Power BI, FastAPI
-*   **My Setup:** Zorin OS, Cursor for deep technical work, and Obsidian for building my second brain and taking notes.
+I do most of my development on Linux and love customizing my environment. Zorin OS as my daily driver, Cursor for deep technical work, and Obsidian for building my second brain. I'm a bit obsessed with keeping my workflow tight.
 
 ### The vibe
 
@@ -32,4 +31,4 @@ write clean SQL, go bouldering, read a good book, and enjoy life 🧗‍♂️
 *📫 Want to chat? Reach out on [LinkedIn](https://www.linkedin.com/in/lizandro-emiliano-martin-alpuche-2807901ba/) or drop me an [email](mailto:tabletemilianomartin2@gmail.com).*
 *🌍 English (C2) · Spanish (native) · Deutsch (learning)*
 
-<img width="100" alt="tux-linux-imagen-animada-0065" src="https://github.com/user-attachments/assets/e47c6f43-bb71-4dc9-b277-5216a40ab8bd" />
+<img width="100" src="https://github.com/user-attachments/assets/e47c6f43-bb71-4dc9-b277-5216a40ab8bd" />
