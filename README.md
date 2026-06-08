@@ -20,7 +20,8 @@ I recently got certified as an Associate Data Engineer in SQL and I'm currently 
 
 ### Nerd Corner 
 
-I do most of my development on Linux and love customizing my environment. Zorin OS as my daily driver, Cursor for deep technical work, and Obsidian for building my second brain. I'm a bit obsessed with keeping my workflow tight.
+I do most of my development on Linux and love customizing my environment. Zorin OS as my daily driver, Cursor for deep technical work, and Obsidian for building my second brain. Day to day I'm usually working with Python, SQL, Docker, and Airflow, and I'm a bit obsessed with keeping my workflow tight.
+
 
 ### The vibe
 
